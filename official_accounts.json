@@ -1,0 +1,48 @@
+{
+"info": {
+"accounts": {
+"youTube": "https://youtube.com/",
+"instagram": "https://www.instagram.com/",
+"gatabot_md": "https://github.com/",
+"gatabotlite_md": "https://github.com/",
+"facebook": "https://www.facebook.com/",
+"tiktok": "https://www.tiktok.com/",
+"threads": "https://www.threads.net/",
+"paypal": "https://paypal.me/",
+"github": "https://github.com/",
+"mail": "Proximamente",
+"all": "https://www.atom.bio/"
+},
+"channels": {
+"channel1": "https://whatsapp.com/channel/0029Vaj5mivLdQegrUZ1Xl3M",
+"channel2": "https://whatsapp.com/channel/0029Vaj5mivLdQegrUZ1Xl3M",
+"channel3": "https://whatsapp.com/channel/0029Vaj5mivLdQegrUZ1Xl3M",
+"channel4": "https://t.me/"
+},
+"groups": {
+"group1": "https://chat.whatsapp.com/FR5YwwyxPhkHbW6sg8w7TZ",
+"group2": "https://chat.whatsapp.com/F9HMh5T8iXrAOC7Q2Vfh8R",
+"group3": "https://chat.whatsapp.com/JcsuLMta5EM8pIKQl1NJss",
+"group4": "https://chat.whatsapp.com/HHGyOVbbJghDQVmEQKVW3X",
+"group5": "https://chat.whatsapp.com/",
+"group6": "https://t.me/"
+},
+"collaboration": {
+"group1": "https://discord.com/invite/utTXM6pW2m",
+"group2": "https://discord.com/invite/utTXM6pW2m",
+"group3": "https://kawaiianimes.app/",
+"group4": "https://kawaiianimes.app/"
+},
+"sponsors": {
+"boxmine": "https://kawaiianimes.app/",
+"cafirexos": "https://kawaiianimes.app/",
+"vortexus": "https://discord.com/invite/utTXM6pW2m",
+"asif": "https://discord.com/invite/utTXM6pW2m"
+},
+"others": {
+"assistance_num": "https://wa.me/",
+"yt_vid": "https://www.youtube.com/",
+"group_support": "https://chat.whatsapp.com/"
+}
+}
+}
